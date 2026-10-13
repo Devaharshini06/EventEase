@@ -1,0 +1,6 @@
+{
+  "name": "EventEase — Event Management and Registration Platform",
+  "description": "Full-stack event discovery, publishing, registration, check-in, and administration platform built with Flask 3, SQLAlchemy 2, Flask-Security-Too, and Vue 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
